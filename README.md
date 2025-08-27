@@ -56,7 +56,9 @@ This submission includes Part 1 of the website, covering:
 Part 2 and Part 3 (additional features, backend integration, and enhanced interactivity) will follow in future submissions.
 
 Sitemap: 
- 
+
+ <img width="734" height="760" alt="image" src="https://github.com/user-attachments/assets/be87a647-db05-4e8c-a0ab-6493c69211b6" />
+
 
 Reference's:
 
