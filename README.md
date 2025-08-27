@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/3_0JBOTn)
 POE Part 1 WEDE5020 
 ReadMe File
-Git Hub Link:  
+Git Hub Link:  https://github.com/VCWVL/wede5020-part-1-Jadey29.git
 Name: Jadene Naidoo
 Student Number: ST 10471357
 Course: WEDE5020
